@@ -348,11 +348,16 @@ https://www.youtube.com/watch?v=o3XQGDAzV3Y
 
 CONCLUSIONES
 
-Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.
-Se caracteriza por que la corriente puede variar con el tiempo.
-Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
-En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
+* Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.
+
+* Se caracteriza por que la corriente puede variar con el tiempo.
+
+* Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
+
+* En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
+
 6. BIBLIOGRAFIA
+
 Unknown, & Perfil, V. T. mi. (n.d.). circuitos RC,RL,RLC. Blogspot.Com. Retrieved February 18, 2022, from http://omar-fuentesrap.blogspot.com/2012/06/los-circuitos-rc-son-circuitos-que.html
 
 francolupio. (2003, May 5). Circuito RC. Monografias.com. https://www.monografias.com/trabajos12/circu/circu

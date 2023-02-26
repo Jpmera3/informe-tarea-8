@@ -279,6 +279,82 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 
 ![image](https://user-images.githubusercontent.com/104911658/221418751-b1027b34-9b73-4e5c-9ab7-1ada6c8db99d.png)
 
+CAPÍTULO 16
 
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+15 KHz
 
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/104911658/221418973-640ddf55-eb52-4080-9ca7-c56a11ccf7a9.png)
+
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/104911658/221418995-67bf05b7-077d-4d02-8ed7-18eac10c2717.png)
+
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/104911658/221419015-3651347e-c573-47eb-9f1f-09c24b2bef5e.png)
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/104911658/221419248-98c4f3b7-0e81-42b9-88d3-4ebd340c5a33.png)
+
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/104911658/221419265-b3359b97-5526-4d63-88d4-6ba13f561ff6.png)
+
+a)
+![image](https://user-images.githubusercontent.com/104911658/221419284-7bb08467-65ea-4a9c-8083-9a827767978e.png)
+
+b)
+![image](https://user-images.githubusercontent.com/104911658/221419293-e82b8c61-fa3f-47a0-bee0-d0307e610fee.png)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/104911658/221419392-21230282-a389-48f3-8cc5-bebcbc10e31f.png)
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/104911658/221419430-d164afb6-6b97-4725-b55f-ab9b29bca2e3.png)
+
+![image](https://user-images.githubusercontent.com/104911658/221419442-911e9a96-8eb1-41f1-8f48-dded6666ef90.png)
+
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con res�pecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/104911658/221419463-5921d8b8-1a2e-4ae2-8020-2ca2a316cfdb.png)
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/104911658/221419478-4450504c-fe78-40c5-909c-e18c0a9756f8.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/104911658/221419488-16bcec99-4d98-4f28-8eba-fc9cab83b971.png)
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/104911658/221419543-1ba77bb4-d10d-4a30-b2eb-c3cc60c1962f.png)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/104911658/221419579-00075bfc-7cd7-49d0-a60a-b1af8c8107d6.png)
+
+VIDEO
+
+https://www.youtube.com/watch?v=o3XQGDAzV3Y
+
+CONCLUSIONES
+
+Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.
+Se caracteriza por que la corriente puede variar con el tiempo.
+Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
+En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
+6. BIBLIOGRAFIA
+Unknown, & Perfil, V. T. mi. (n.d.). circuitos RC,RL,RLC. Blogspot.Com. Retrieved February 18, 2022, from http://omar-fuentesrap.blogspot.com/2012/06/los-circuitos-rc-son-circuitos-que.html
+
+francolupio. (2003, May 5). Circuito RC. Monografias.com. https://www.monografias.com/trabajos12/circu/circu
+
+Página, I. E. (n.d.). UNIVERSIDAD TECNICA DE COTOPAXI. Edu.Ec. Retrieved February 18, 2022, from http://repositorio.utc.edu.ec/bitstream/27000/867/1/T-UTC-0621.pdf
